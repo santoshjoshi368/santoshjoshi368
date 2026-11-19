@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning to build Data Science projects on Python.
 - 💞️ I’m looking to collaborate on Data Science projects.
+- I have the experience of working in the Insurance Industry as an Actuarial Analyst.
 - 📫 How to reach me santoshjoshi368@gmail.com
 
 <!---
